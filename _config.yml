@@ -1,9 +1,9 @@
 # Site Info
-title: '초보몽키의 개발공부로그'
-tagline: '초보몽키의 개발공부로그'
-description: '프로그래밍을 공부하며 배운점 느낀점을 기록하는 곳입니다.'
+title: 'RlEHVL의 개발 블로그'
+tagline: 'RlEHVL의 개발 블로그'
+description: '개발 관련 학습 내용과 생각을 기록하는 공간입니다.'
 baseurl: ""
-url: https://wayhome25.github.io
+url: https://rlehvl.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,15 +24,15 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: LEE HYUNJOO
-  description: 초보몽키(LEE HYUNJOO)
+  name: RlEHVL
+  description: RlEHVL
   contact:
     # linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/wayhome25
-    facebook:  https://www.facebook.com/wayhome25
+    github:    https://github.com/RlEHVL
+    # facebook:  https://www.facebook.com/wayhome25
     # twitter:   https://twitter.com/Li_Zhihao
     # weibo:     http://weibo.com/41173780
-    email:    mailto:siwabada@gmail.com
+    # email:    mailto:siwabada@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -65,8 +65,8 @@ category_page: '/blog/categories/'
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-92094009-1' # leave blank if you don't want google analytics
-disqus_short_name: 'wayhome25-github-io' # leave blank if you don't want disqus
+google_analytics_token: '' # leave blank if you don't want google analytics
+disqus_short_name: '' # leave blank if you don't want disqus
 
 
 # Use the following plug-ins
