@@ -3,7 +3,8 @@ title: 'RlEHVL의 개발 블로그'
 tagline: 'RlEHVL의 개발 블로그'
 description: '개발 관련 학습 내용과 생각을 기록하는 공간입니다.'
 baseurl: ""
-url: https://rlehvl.github.io
+url: https://noa-fotmdhdn.github.io
+logo: '/public/logo.png'
 logo: '/public/logo.png'
 
 # Site configurations
